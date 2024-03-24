@@ -1,6 +1,5 @@
 # Breast Cancer Prediction
-![Image Description](![Image Description](https://drive.google.com/uc?id=1dSEl2r98TMKd5y1lARXnW-4F8BLr-_PQ))
-
+<img src="https://drive.google.com/uc?id=1dSEl2r98TMKd5y1lARXnW-4F8BLr-_PQ" alt="Image Description" style="width:70%;">
 ## Overview
 This project focuses on the development of a breast cancer prediction system utilizing machine learning techniques. The dataset used for this project is sourced from Kaggle ([Breast Cancer Wisconsin Diagnostic Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)), which provides features extracted from digitized images of fine needle aspirates (FNAs) of breast masses. The goal is to classify breast masses as either malignant or benign based on various quantitative metrics extracted from cell nuclei characteristics.
 
